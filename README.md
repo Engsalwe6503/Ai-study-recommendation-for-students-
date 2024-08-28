@@ -1,7 +1,6 @@
-# Ai-study-recommendation-for-student
+# EduAI-Field-Recommender
 
-
-**Ai-study-recommendation-for-students** is a web application used Streamlit FrameWork that helps high school students choose their field of study based on their interests. The app leverages the Google Gemini API to provide personalized recommendations.
+**EduAI-Field-Recommender** is a web application used Streamlit FrameWork that helps high school students choose their field of study based on their interests. The app leverages the Google Gemini API to provide personalized recommendations.
 
 ## Features
 
@@ -29,6 +28,11 @@
 
    ```bash
    pip install streamlit requests
+
+   ```
+
+   ```bash
+   pip install -q -U google-generativeai
 
    ```
 
