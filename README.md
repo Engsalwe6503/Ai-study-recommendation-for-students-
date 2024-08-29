@@ -1,6 +1,7 @@
 # Pycon academic advisor Ai
 
 **Pycon academic advisor Ai** is a web application used Streamlit FrameWork that helps high school students choose their field of study based on their interests. The app leverages the Google Gemini API to provide personalized recommendations.
+![PAYCON 2Screenshot 2024-08-29 085759](https://github.com/user-attachments/assets/8bc7592b-d2a8-4dea-9c11-c5f431c244a4)
 
 ## Features
 
