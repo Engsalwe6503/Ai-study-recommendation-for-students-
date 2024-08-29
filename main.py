@@ -34,10 +34,9 @@ image_html = """
 st.markdown(image_html, unsafe_allow_html=True)
 st.write("PyCon Event programm submit 2024")
 
+st.title("PyCon Academic Advisor AI")
 
-
-
-st.title("High School Field of Study Recommendation")
+st.write("")
 st.write("Please select your interests from the options below:")
 
 # optionska ladooran lahaa

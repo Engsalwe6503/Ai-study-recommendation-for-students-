@@ -1,6 +1,6 @@
-# EduAI-Field-Recommender
+# Pycon academic advisor Ai
 
-**EduAI-Field-Recommender** is a web application used Streamlit FrameWork that helps high school students choose their field of study based on their interests. The app leverages the Google Gemini API to provide personalized recommendations.
+**Pycon academic advisor Ai** is a web application used Streamlit FrameWork that helps high school students choose their field of study based on their interests. The app leverages the Google Gemini API to provide personalized recommendations.
 
 ## Features
 
@@ -17,11 +17,11 @@
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Alaaja8899/AI-Study-Path-Recommender.git
+   git clone https://github.com/Engsalwe6503/PyCon-Academic-Advisor-AI.git
    ```
 
    ```bash
-   cd AI-Study-Path-Recommender
+   cd PyCon-Academic-Advisor-AI
    ```
 
 2. **install requirements**
