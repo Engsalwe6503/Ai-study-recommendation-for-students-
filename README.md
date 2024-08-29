@@ -25,6 +25,9 @@
    ```
 
 2. **install requirements**
+   ` streamlit pacage may take a little minutes upto 5 minutes depends on your network 
+   `
+
 
    ```bash
    pip install streamlit requests
