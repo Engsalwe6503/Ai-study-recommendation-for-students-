@@ -89,8 +89,8 @@ selected_options = st.multiselect("Select your interests:", options)
 st.markdown("""
     <style>
     .stButton > button {
-        color: skyblue !important;
-        border: 2px solid skyblue !important;
+        color: blue !important;
+        border: 2px solid blue !important;
         background-color: transparent !important;
         border-radius: 5px !important;
     }
