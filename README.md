@@ -28,8 +28,7 @@
 2. **install requirements**
 
     ```bash
-streamlit package may take a little minutes upto 5 minutes depends on your network 
-
+    streamlit package may take a little minutes upto 5 minutes depends on your network 
    ```
 
 
