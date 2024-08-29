@@ -24,9 +24,13 @@
    cd PyCon-Academic-Advisor-AI
    ```
 
+
 2. **install requirements**
-   ` streamlit pacage may take a little minutes upto 5 minutes depends on your network 
-   `
+
+    ```bash
+streamlit package may take a little minutes upto 5 minutes depends on your network 
+
+   ```
 
 
    ```bash
